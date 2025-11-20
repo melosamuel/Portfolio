@@ -1,0 +1,11 @@
+{
+    "title": "Olá, sou Samuel, dev Full-Stack.",
+    "subtitle": "Proprietário da Ânime Solutions",
+    "description": "Metódico, apaixonado e Customer-Driven.",
+    "radar-description": "Portal de notícias local dedicado a diversas regiões do Rio de Janeiro — incluindo Zona Oeste, Baixada Fluminense e Zona Sul. Atualmente em desenvolvimento, o projeto prioriza segurança, flexibilidade, escalabilidade e um sistema moderno de gestão de conteúdo jornalístico.",
+    "carnaval-app-description": "Aplicativo oficial do Carnaval do Rio de Janeiro. Permite cadastro de usuários, painel administrativo completo e acesso a todas as informações sobre a maior festa do mundo. O grande destaque é a votação popular, que utiliza dados de localização e dispositivo para garantir autenticidade e transparência. Além disso, conta com um painel de monitoramento e análise em tempo real, e um sistema de fila inteligente para envio das votações, evitando sobrecarga e bloqueios de API.",
+    "project-coming-soon": "Em Breve",
+    "more": "Mais em Breve...",
+    "contact-me": "Entre em contato comigo AGORA!!",
+    "see-some": "Veja um pouco do meu trabalho"
+}
