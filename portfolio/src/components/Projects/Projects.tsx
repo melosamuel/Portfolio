@@ -35,7 +35,7 @@ export default function Projects() {
         <div className="grid lg:grid-cols-2 gap-8">
           {projects.map((project, index) => (
             <article key={index} className="group bg-card rounded-2xl overflow-hidden border border-border hover-lift">
-              <div className="relative aspect-video overflow-hidden flex justify-center items-center bg-linear-to-r from-[#333] to-black h-[500px] w-[600px]">
+              <div className="relative aspect-video overflow-hidden flex justify-center items-center bg-linear-to-r from-[#333] to-black">
                 <img
                   src={project.image || "/placeholder.svg"}
                   alt={project.title}
@@ -43,7 +43,7 @@ export default function Projects() {
                     objectFit: "contain",
                     objectPosition: "center"
                   }}
-                  className=" group-hover:scale-105 transition-transform duration-500"
+                  className="group-hover:scale-105 transition-transform duration-500 w-full h-full"
                 />
               </div>
 
